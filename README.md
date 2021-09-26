@@ -1,3 +1,4 @@
 # thi3fmaster
 
-# Hello :)
+
+# Hello, hope you’re having a great day 
