@@ -168,3 +168,5 @@
     "/var/log/pacman.log": "bae946fc47bac64a301d9bdef45f9671a40a6248d571cb7b06334861cb869e83"
   }
 }
+
+# Thief
